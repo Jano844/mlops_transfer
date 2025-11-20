@@ -1,0 +1,7 @@
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - LOGS_CAPTURED - Started capturing logs in process (pid: 40232).
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - test_asset - STEP_START - Started execution of step "test_asset".
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - test_asset - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - test_asset - Writing file at: /home/jan/Desktop/mlops_level3/ml_pipeline/.tmp_dagster_home_qbuqm04t/storage/test_asset using PickledObjectFilesystemIOManager...
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - test_asset - ASSET_MATERIALIZATION - Materialized value test_asset.
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - test_asset - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2025-11-19 22:10:33 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - f2d53a07-ebbd-4b0f-9fe2-d3d549d9c23a - 40232 - test_asset - STEP_SUCCESS - Finished execution of step "test_asset" in 405ms.
